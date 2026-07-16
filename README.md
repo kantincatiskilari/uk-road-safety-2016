@@ -23,5 +23,5 @@ dashboard projesidir.
 [UK 2016 Road Safety Data — Kaggle](https://www.kaggle.com/datasets/bluehorseshoe/uk-2016-road-safety-data)
 
 ## Dashboard
-- [Plotly interaktif dashboard](uk_road_safety_dashboard.html)
+- [Plotly interaktif dashboard](uk_road_safety_dashboard_v2.html)
 - Power BI: pbix dosyasını Power BI Desktop ile aç
